@@ -1,0 +1,78 @@
+Bubble 1: | Patches: *Splich splash* |
+--------------------
+Bubble 2: Patches: *Splich splash* |
+pe ee
+--------------------
+Bubble 3: | Patches: *Splich splash* |
+--------------------
+Bubble 4: | Patches: *Splich splash* }
+--------------------
+Bubble 1: Patches: *Splich splash*
+--------------------
+Bubble 2: Patches: *Splich splash* |
+--------------------
+Bubble 3: | Patches: *Splich splash* |
+--------------------
+Bubble 4: | Jozlé4: testing )
+--------------------
+Bubble 5: Jozlé4: testing )
+--------------------
+Bubble 6: | Jozlé4: testing )
+-! ly
+--------------------
+Bubble 7: | Jozlé4: testing
+a 1 4
+--------------------
+Bubble 1: | Jozlé4: testing |
+--------------------
+Bubble 2: Jozlé4: testing
+--------------------
+Bubble 3: Jozlé4: testing
+--------------------
+Bubble 4: Jozlé4: testing
+--------------------
+Bubble 5: Jozle@4: 12545
+--------------------
+Bubble 6: Jozle@4: 12545
+--------------------
+Bubble 7: | Jozle@4: 12545
+a 1
+--------------------
+Bubble 1: | Jozlé4: testing |
+--------------------
+Bubble 2: Jozlé4: testing
+--------------------
+Bubble 3: Jozlé4: testing
+--------------------
+Bubble 4: Jozlé4: testing
+--------------------
+Bubble 5: Jozle@4: 12545
+--------------------
+Bubble 6: Jozle@4: 12545
+--------------------
+Bubble 7: Jozle@4: 12545
+--------------------
+Bubble 8: ae
+Jozle4: FUCE
+--------------------
+Bubble 9: | Jozle4: FUCE
+mt
+--------------------
+Bubble 1: | Jozlé4: testing |
+--------------------
+Bubble 2: Jozlé4: testing
+--------------------
+Bubble 3: Jozlé4: testing
+--------------------
+Bubble 4: Jozlé4: testing
+--------------------
+Bubble 5: Jozle@4: 12545
+--------------------
+Bubble 6: Jozle@4: 12545
+--------------------
+Bubble 7: Jozle@4: 12545
+--------------------
+Bubble 8: | Jozle4: FUCE |
+--------------------
+Bubble 9: Jozle4: FUCE
+--------------------
